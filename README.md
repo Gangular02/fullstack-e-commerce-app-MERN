@@ -1,6 +1,4 @@
 
-Sure, here's a short description for an e-commerce full-stack application to be uploaded on GitHub:
-
 Project Title: E-Commerce Full Stack Application
 
 Description:
